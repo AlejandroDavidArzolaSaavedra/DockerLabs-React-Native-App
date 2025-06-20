@@ -1,5 +1,7 @@
 <h1 align="center">🐳 DockerLabs App</h1>
 
+<img src="https://i.imgur.com/MFBAi5h.png">
+
 **Organiza tus notas de hacking, desbloquea trofeos y maximiza tu productividad con pomodoros.**  
 Una aplicación todo-en-uno para hackear con método, registrar tu progreso y convertirte en un verdadero pro del hacking ético.
 
@@ -95,6 +97,6 @@ Puedes crear issues con mejoras, bugs o ideas, o directamente abrir un PR.
 
 **DockerLabs App** es un proyecto de aprendizaje, productividad y hacking ético.
 
-Desarrollado con ❤️ por \[Alejandro David Arzola Saavedra].
+Desarrollado con ❤️ por Alejandro David Arzola Saavedra
 
 ---
