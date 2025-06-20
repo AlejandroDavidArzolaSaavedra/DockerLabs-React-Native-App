@@ -43,13 +43,6 @@ Toma descansos inteligentes y registra notas por máquina mientras aprendes.
 
 ---
 
-## ⏳ Lanzamiento
-
-La app estará disponible **próximamente** en Android e iOS.  
-¡Síguenos y prepárate para revolucionar tu forma de aprender hacking ético!
-
----
-
 ## 📦 Instalación local (modo desarrollo)
 
 1. Clona este repositorio:
