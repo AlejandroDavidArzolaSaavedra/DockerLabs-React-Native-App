@@ -38,7 +38,7 @@ Toma descansos inteligentes y registra notas por máquina mientras aprendes.
 ## 📱 Capturas de Pantalla
 
 <div align="center">
-  <img src="https://i.imgur.com/fXdSLh7.png" width="400"  height="380"> <img src="https://i.imgur.com/iut42lO.png" width="400" height="380">
+  <img src="https://i.imgur.com/h2x1Ifw.png"> <img src="https://i.imgur.com/vX201lR.png"> <img src="https://i.imgur.com/YTNSEm8.png">
 </div>
 
 ---
