@@ -70,16 +70,6 @@ Toma descansos inteligentes y registra notas por máquina mientras aprendes.
 
 ---
 
-## ✅ Testing
-
-Para correr pruebas unitarias:
-
-```bash
-  npm run test
-```
-
----
-
 ## 🙌 Contribuir
 
 Puedes crear issues con mejoras, bugs o ideas, o directamente abrir un PR.
