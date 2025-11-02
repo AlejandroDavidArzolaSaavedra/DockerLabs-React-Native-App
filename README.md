@@ -7,25 +7,25 @@ Una aplicación todo-en-uno para hackear con método, registrar tu progreso y co
 
 ---
 
-## 🚀 Características principales
+## Características principales
 
-### 🔍 Explora y Aprende
+### Explora y Aprende
 Accede al catálogo de máquinas virtuales de DockerLabs.  
 Filtra por **nombre** o **nivel de dificultad**, y organiza tu camino de entrenamiento.  
 > Tu viaje en el hacking ético comienza aquí.
 
-### 🏆 Desbloquea Trofeos y Lidera
+### Desbloquea Trofeos y Lidera
 Configura tu perfil, mide tu avance y desbloquea **logros** al resolver máquinas.  
 > ¡Sube de nivel y demuestra tus habilidades al mundo!
 
-### 🧠 Hackea con Enfoque (Modo Pomodoro)
+###  Hackea con Enfoque (Modo Pomodoro)
 Trabaja con máxima concentración en bloques de tiempo definidos.  
 Toma descansos inteligentes y registra notas por máquina mientras aprendes.  
 > Mejora tu productividad y haz que cada sesión cuente.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 - **React Native** – interfaz móvil nativa y fluida
 - **SQLite** – almacenamiento local de datos y notas
@@ -35,7 +35,7 @@ Toma descansos inteligentes y registra notas por máquina mientras aprendes.
 
 ---
 
-## 📱 Capturas de Pantalla
+## Capturas de Pantalla
 
 <div align="center">
   <img src="https://i.imgur.com/h2x1Ifw.png" height="400"> <img src="https://i.imgur.com/vX201lR.png" height="400"> <img src="https://i.imgur.com/YTNSEm8.png" height="400">
@@ -70,16 +70,15 @@ Toma descansos inteligentes y registra notas por máquina mientras aprendes.
 
 ---
 
-## 🙌 Contribuir
+## Contribuir
 
 Puedes crear issues con mejoras, bugs o ideas, o directamente abrir un PR.
 
 ---
 
-## 🧑‍💻 Autor y Créditos
+## Autor y Créditos
 
 **DockerLabs App** es un proyecto de aprendizaje, productividad y hacking ético.
-
-Desarrollado con ❤️ por Alejandro David Arzola Saavedra
+Desarrollado por Alejandro David Arzola Saavedra
 
 ---
